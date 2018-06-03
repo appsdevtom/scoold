@@ -290,9 +290,9 @@
 									<a href="https://erudika.com"><b>Erudika</b></a>
 								#end
 							</div>
-							<a href="$!languageslink" title="Switch to a different language" class="btn-flat grey capitalize">
+							#*<a href="$!languageslink" title="Switch to a different language" class="btn-flat grey capitalize">
 								$!currentLocale.getDisplayLanguage($currentLocale)
-							</a>
+							</a>*#
 						</div>
 					</div>
 				</div>
